@@ -1,4 +1,4 @@
-**see [demo video](stencil_creator_demo_video.zip), example input photos and resulting stencils
+**see [demo video](stencil_creator_demo_video.zip), [example input photo](mountain_lake_stars.png) and [resulting stencils](stencils)
 
 splits a colored input image into a few distinct colors
 
@@ -8,4 +8,4 @@ prints final choice into stencils
 
 used to create laser rastering outlines for a custom LED sign project inspired by stencil art (layering of different colored stencils to make a full final image)
 
-see led sign finished.jpg for final product
+**see [LED Sign](led_sign_finished.jpg) for final product**
