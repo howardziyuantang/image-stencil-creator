@@ -1,3 +1,5 @@
+**see demo video and example input photos and resulting stencils
+
 splits a colored input image into a few distinct colors
 
 allows user to choose between different splitting options (number of colors, level of blending, etc)
