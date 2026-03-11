@@ -1,4 +1,4 @@
-**see [demo video](stencil_creator_demo_video.zip), [example input photo](mountain_lake_stars.png) and [resulting stencils](stencils)
+**see [demo video](https://youtu.be/31q-l8HeMbc), [example input photo](mountain_lake_stars.png) and [resulting stencils](stencils)
 
 splits a colored input image into a few distinct colors
 
