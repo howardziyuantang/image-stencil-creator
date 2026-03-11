@@ -1,4 +1,4 @@
-**see demo video and example input photos and resulting stencils
+**see [demo video](stencil_creator_demo_video.zip), example input photos and resulting stencils
 
 splits a colored input image into a few distinct colors
 
